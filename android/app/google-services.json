@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642806091331",
+    "project_id": "unimarket-ueb-1",
+    "storage_bucket": "unimarket-ueb-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642806091331:android:a38c8c9d78103c4ab20ef6",
+        "android_client_info": {
+          "package_name": "com.example.unimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642806091331-2ckacjro5crrsil49ejhaa735pv5bs11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unimarket",
+            "certificate_hash": "8092cca0efb008ea016ebc9593b91b2ca2d07269"
+          }
+        },
+        {
+          "client_id": "642806091331-qj930hfr61asggnbnp1k1vi16r3k1mba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKuUKprQxzwPCR3cPgBEv3-5-QbiCiDQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642806091331-qj930hfr61asggnbnp1k1vi16r3k1mba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

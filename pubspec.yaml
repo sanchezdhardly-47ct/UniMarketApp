@@ -1,0 +1,40 @@
+name: unimarket
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # FIREBASE ACTUALIZADO - VERSIONES 2024
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.18.2
+  cloud_firestore: ^4.13.2
+  firebase_storage: ^11.5.2
+
+  # Para seleccionar imágenes (galería/cámara)
+  image_picker: ^1.0.7
+
+  # NUEVAS DEPENDENCIAS NECESARIAS
+  http: ^1.1.0
+  google_sign_in: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1  # 👈 AGREGADO
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/LOGO1.png"
